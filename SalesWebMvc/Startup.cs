@@ -13,7 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Data;
 
 namespace SalesWebMvc {
-    public class Startup {
+    public class Startup { 
         public Startup(IConfiguration configuration) {
             Configuration = configuration;
         }
